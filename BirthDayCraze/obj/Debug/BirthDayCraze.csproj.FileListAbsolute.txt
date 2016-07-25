@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BirthDayCraze\BirthDayCraze\bin\Debug\BirthDayCraze.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BirthDayCraze\BirthDayCraze\bin\Debug\BirthDayCraze.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BirthDayCraze\BirthDayCraze\bin\Debug\BirthDayCraze.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BirthDayCraze\BirthDayCraze\obj\Debug\BirthDayCraze.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BirthDayCraze\BirthDayCraze\obj\Debug\BirthDayCraze.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BirthDayCraze\BirthDayCraze\obj\Debug\BirthDayCraze.pdb
